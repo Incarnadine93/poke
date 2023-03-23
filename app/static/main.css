@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: grey;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    color: white;
+}
+  
+.container-fluid {
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+
+.nav-link {
+    color: white;
+}
+
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
